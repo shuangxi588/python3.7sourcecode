@@ -11,7 +11,7 @@ idna==2.6
 itsdangerous==0.24
 jieba==0.39
 Jinja2==2.10
-jupyter-echarts-pypkg==0.1.0
+jupyter-echarts-pypkg==0.1.5
 lml==0.0.2
 MarkupSafe==1.0
 Pillow==5.1.0
